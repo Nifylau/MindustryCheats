@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: Metaglass Source
-description: Spams Metaglass
+description: Spams Metaglass.
 liquidCapacity: 50
 size: 1
 hasPower: false
