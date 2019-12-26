@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: Lead Source
-description: Spams Lead
+description: Spams Lead.
 liquidCapacity: 50
 size: 1
 hasPower: false
