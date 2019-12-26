@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: Copper Source
-description: Spams Copper
+description: Spams Copper.
 liquidCapacity: 50
 size: 1
 hasPower: false
