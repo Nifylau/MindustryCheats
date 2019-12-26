@@ -1,0 +1,25 @@
+type: GenericCrafter
+name: Copper Source
+description: Spams Copper
+liquidCapacity: 50
+size: 1
+hasPower: false
+hasLiquids: true
+hasItems: true
+craftTime: 6
+updateEffect: smeltsmoke
+consumes: {
+  items: {
+    items: [
+      copper/0
+    ]
+  }
+}
+requirements: [
+  copper/0
+]
+category: crafting
+research: silver-crucible
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: copper/1
