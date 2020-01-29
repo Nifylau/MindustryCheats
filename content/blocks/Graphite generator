@@ -1,0 +1,25 @@
+type: GenericCrafter
+name: Graphite Source
+description: Spams Graphite.
+liquidCapacity: 50
+size: 1
+hasPower: false
+hasLiquids: true
+hasItems: true
+craftTime: 6
+updateEffect: smeltsmoke
+consumes: {
+  items: {
+    items: [
+      copper/0
+    ]
+  }
+}
+requirements: [
+  copper/0
+]
+category: crafting
+research: duo
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: graphite/1
